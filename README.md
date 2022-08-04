@@ -14,5 +14,5 @@ It codes shows the steps taking to train a model to predict employee turnover ra
 9. Evaluation Metric
 
 ## Problems you might encounter
-The codes were run on RHYME, it was a project-based course I took on cousera. So, I do not know how to run Jupyter Interactive Widget as at the time writing all these. And by so doing, I am so much open to know that, so please comment. 
+The codes were run on RHYME, it was a project-based course I took on cousera.
  
